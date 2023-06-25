@@ -14,3 +14,6 @@ watch tutorial on YouTube.
 testkey
 testke.pub
   ~ cat testkey.pub
+
+  ~ pbcopy < ~/testkey.pub
+  ~
