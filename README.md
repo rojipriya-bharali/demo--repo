@@ -9,3 +9,4 @@ Some description,
 
 watch tutorial on YouTube.
 
+~ ssh-keygen -t rsa -b 4096 -C "email@example.com"
